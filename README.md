@@ -1,4 +1,4 @@
-# 1-030-Hours-Shanghai-Dialect-Speech-Data-by-Mobile-Phone
+# 1030-Hours-Shanghai-Dialect-Speech-Data-by-Mobile-Phone
 https://www.datatang.ai/datasets/56
 
 ## Description
