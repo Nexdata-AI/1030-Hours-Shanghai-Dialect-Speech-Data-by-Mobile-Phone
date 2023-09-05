@@ -4,7 +4,8 @@
 ## Description
 It collects 2.956 speakers from Shanghai and is recorded in quiet indoor environment. The recorded content includes multi-domain customer consultation, short messages, numbers, Shanghai POI, etc. The corpus has no repetition and the average sentence length is 12.68 words. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://bit.ly/3dHVRAJ
+For more details, please refer to the link: https://www.nexdata.ai/datasets/56?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
